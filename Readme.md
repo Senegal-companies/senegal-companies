@@ -11,9 +11,6 @@ this public repository helps people find information on Senegalese companies and
 ### Important to know 
 - For organized work, feel free to make a PR. 
 - You can also open an issue for any suggestions about projet 😃
-- Sectors represent repository names
-- companies are represented by their logo, name, address, email, phone and website. 
-
 
 
 <em> Senegal Thia Kaw Thia Kaname 🇸🇳🇸🇳🇸🇳🇸🇳🇸🇳🇸🇳🇸🇳🇸🇳 </em>
