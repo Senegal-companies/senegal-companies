@@ -1,0 +1,53 @@
+{
+  "Attijariwafa Bank": {
+    "logo": "assets/img.png",
+    "name": "Attijariwafa Bank",
+    "Location": "31, Avenue Léopold Sédar Senghor – BP 32 003 Dakar Ponty",
+    "email": "",
+    "website": "https://www.attijariwafabank.com/fr",
+    "phone1": "338899898",
+    "phone2": "338234857"
+  },
+  "Banque Africaine de Développement (BAD)": {
+    "logo": "assets/img_1.png",
+    "name": "Banque Africaine de Développement (BAD)",
+    "Location": "",
+    "email": "",
+    "website": "https://www.afdb.org/fr",
+    "phone1": ""
+  },
+  "Baobap Crédit": {
+    "logo": "assets/img_16.png",
+    "name": "Baobap Crédit",
+    "Location": "Dakar, Sénégal",
+    "email": "",
+    "website": "https://baobab.com/sn/",
+    "phone1": ""
+  },
+  "Banque de l'Habitat du Sénégal (BHS)": {
+    "logo": "assets/img_2.png",
+    "name": "Banque de l'Habitat du Sénégal (BHS)",
+    "Location": "Boulevard Général De Gaulle / B.P 229 Dakar Sénégal",
+    "email": "",
+    "website": "https://www.bhs.sn/",
+    "phone1": "221338393333"
+  },
+  "Banque Internationale pour le Commerce et l'Industrie au Sénégal (BICIS)": {
+    "logo": "assets/img_3.png",
+    "name": "Banque Internationale pour le Commerce et l'Industrie au Sénégal (BICIS)",
+    "Location": "Dakar Sénégal",
+    "email": "bicis@sunubicis.com",
+    "website": "https://sunubicis.com/",
+    "phone1": "221338390390",
+    "phone2": "221338234721",
+    "phone3": "221338598218"
+  },
+  "Banque des Institutions Mutualistes d'Afrique de l'Ouest (BIMAO)": {
+    "logo": "assets/img_4.png",
+    "name": "Banque des Institutions Mutualistes d'Afrique de l'Ouest (BIMAO)",
+    "Location": "Sacré-Coeur 3 Pyrotechnie VDN 15098 - CP 12524 Dakar-Fann",
+    "email": "ebanking@bimao.sn",
+    "website": "https://ebanking.bimao.sn/PortailWeb/#!/",
+    "phone1": "221338598218"
+  }
+}
