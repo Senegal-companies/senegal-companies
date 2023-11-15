@@ -1,0 +1,110 @@
+{
+  "Alliance de Credit et d’Epargne pour la Production": {
+    "logo": "assets/img.png",
+    "name": "Alliance de Credit et d’Epargne pour la Production (ACEP)",
+    "location": "Avenue Bourguiba x Blvd Dial DIOP",
+    "email": "acep@acepsenegal.com",
+    "website": "http://www.acepsenegal.com/",
+    "phone1": "221338697550/65",
+    "phone2": "221338252935"
+  },
+  "Agence Conseil International": {
+    "logo": "assets/img_1.png",
+    "name": "Agence Conseil International (ACI)",
+    "location": "Rue Mohamed V, angle Félix Faure face à ADA voyage Dakar Senegal",
+    "email": "",
+    "website": "https://aci-assurances.com/",
+    "phone1": "221338220717"
+  },
+  "Allianz Sénégal Assurances": {
+    "logo": "assets/img_2.png",
+    "name": "Allianz Sénégal Assurances",
+    "location": "Dakar, Senegal",
+    "email": "",
+    "website": "https://www.allianz.sn/contact.html",
+    "phone1": ""
+  },
+  "Amsa Assurances Sénégal": {
+    "logo": "assets/img_23.png",
+    "name": "Amsa Assurances Sénégal",
+    "location": "43, Avenue Hassan II, Dakar, B.P. 225 Dakar",
+    "email": "contact-sn@amsaassurances.com",
+    "website": "https://amsaassurances.com/web3/",
+    "phone1": "221338393600",
+    "phone2": "221338393601"
+  },
+  "Askia Assurances": {
+    "logo": "assets/img_3.png",
+    "name": "Askia Assurances",
+    "location": "Dakar, senegal",
+    "email": "contact@askiaassurances.com",
+    "website": "https://askiaassurances.net/ ",
+    "phone1": "221338894041",
+    "phone2": "221776692222"
+  },
+  "Assurance la Sécurité Sénégalaise": {
+    "logo": "assets/img_4.png",
+    "name": "Assurance la Sécurité Sénégalaise",
+    "location": "Dakar, Rue le Dantec X Pierre Millon",
+    "email": "ass.dk@ass-assurances.sn",
+    "website": "https://lasecu-assurances.sn/",
+    "phone1": "221338490599",
+  },
+  "Assurance Facile": {
+    "logo": "assets/img_5.png",
+    "name": "Assurance Facile",
+    "location": "16 rue Victor Hugo, Dakar",
+    "email": "contact@assurancefacile.net",
+    "website": "https://assurancefacile.net/",
+    "phone1": "221338211418"
+  },
+  "ASSUR CONSEILS MARSH": {
+    "logo": "assets/img_6.png",
+    "name": "ASSUR CONSEILS MARSH",
+    "location": "Place de l'indépendance, Immeuble SDIH, 6e Etage BP: 21880 Dakar-Ponty - DAKAR",
+    "email": "",
+    "website": "",
+    "phone1": "221338893600",
+    "phone2": "221338223830"
+  },
+  "Assurances La Providence SA": {
+    "logo": "assets/img_7.png",
+    "name": "Assurances La Providence SA",
+    "location": "Boulevard Djily Mbaye X B. Feraud, Dakar, Sénégal",
+    "email": "",
+    "website": "https://assuranceslaprovidence.com/",
+    "phone1": "221338899077",
+  },
+  "Assurix Sénégal": {
+    "logo": "assets/img_8.png",
+    "name": "Assurix Sénégal",
+    "location": "Corniche Ouest x Rue 11 Médina",
+    "email": "info@assurixsenegal.com",
+    "website": "https://www.assurixsenegal.com/",
+    "phone1": "",
+  },
+  "AXA - Assurances Sénégal": {
+    "logo": "assets/img_9.png",
+    "name": "AXA - Assurances Sénégal",
+    "location": " Dakar, Senegal",
+    "email": "",
+    "website": "https://www.axa.snsn/",
+    "phone1": ""
+  },
+  "Centrale Insurances Broker Agency (CIBA)": {
+    "logo": "assets/img_10.png",
+    "name": "Centrale Insurances Broker Agency (CIBA)",
+    "location": "Rue Malant Immeuble Electra 1re étage, Dakar",
+    "email": "",
+    "website": "https://www.axa.snsn/",
+    "phone1": ""
+  },
+  "Centrale Insurances Broker Agency (CIBA)": {
+    "logo": "assets/img_10.png",
+    "name": "Centrale Insurances Broker Agency (CIBA)",
+    "location": "Rue Malant Immeuble Electra 1re étage, Dakar",
+    "email": "",
+    "website": "",
+    "phone1": ""
+  }
+}
