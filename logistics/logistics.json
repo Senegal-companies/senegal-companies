@@ -1,0 +1,131 @@
+{
+  "Afrety": {
+    "logo": "/assets/img_2.png",
+    "name": "Afrety",
+    "location": "Senegal, Dakar",
+    "email": "contact@afrety.com",
+    "website": "https://www.afrety.com/",
+    "phone1": "338644037"
+  },
+  "Africa Gloabal LOgistics": {
+    "logo": "/assets/img_12.png",
+    "name": "Africa Global Logistics",
+    "location": "Senegal, Dakar",
+    "email": "",
+    "website": "https://www.aglgroup.com/ ",
+    "phone1": "33188871000"
+  },
+  "Bollore Africa Logistic": {
+    "logo": "/assets/img_11.png",
+    "name": "Bollore Africa Logistic",
+    "location": "Senegal, centenaire Dakar",
+    "email": "sales.senegal@bollore.com",
+    "website": "https://www.bollore-transport-logistics.com/",
+    "phone1": ""
+  },
+  "CarrapidePrestige": {
+    "logo": "/assets/img_6.png",
+    "name": "Carrapide Prestige",
+    "location": "Senegal, Dakar",
+    "email": "",
+    "website": "https://carrapideprestige.com/",
+    "phone1": "221338200666"
+  },
+  "Chargel": {
+    "logo": "/assets/img_1.png",
+    "name": "Chargel",
+    "location": "Friendship 3 Thiargane Building",
+    "email": "",
+    "website": "https://www.chargel.me/",
+    "phone1": "339232222"
+  },
+  "DHL Senegal": {
+    "logo": "/assets/img_7.png",
+    "name": "DHL Senegal",
+    "location": "MGRH+RP2, Dakar 19024",
+    "email": "",
+    "website": "https://www.dhl.com/sn-fr/home.html ",
+    "phone1": "338691111"
+  },
+  "DP WORLD": {
+    "logo": "/assets/img_10.png",
+    "name": "DP WORLD",
+    "location": "Senegal, Dakar",
+    "email": "customerservice.dakar@dpworld.sn",
+    "website": "https://www.dpworld.com/dakar",
+    "phone1": "338890820"
+  },
+  "Flit africa": {
+    "logo": "/assets/img_8.png",
+    "name": "Flit africa",
+    "location": "Ngor, Almadies",
+    "email": "",
+    "website": "https://flitafrica.com/",
+    "phone1": "221777612689"
+  },
+  "Futur De La Logistique Du Transport - Sarl": {
+    "logo": "",
+    "name": "Futur De La Logistique Du Transport - Sarl",
+    "location": "Arafat En Face De L'Hopital Youssou Mbargane Lot 380 Et 381",
+    "email": "",
+    "website": "",
+    "phone1": "775465052"
+  },
+  "Mediterranean Shipping Company Senegal S.A (MSC)": {
+    "logo": "/assets/img_13.png",
+    "name": "Mediterranean Shipping Company Senegal S.A (MSC)",
+    "location": "Hann Bel Air, Route des Hydrocarbures",
+    "email": "sn349-info@msc.com",
+    "website": "https://www.msc.com/",
+    "phone1": "221338590101"
+  },
+  "Nct Logistique Senegal ( Ex Estb - Sa :Entreprise Senegalaise Des Transports Transport D'Hydrocarbures Bellassee)": {
+    "logo": "/assets/img_14.png",
+    "name": "Nct Logistique Senegal ( Ex Estb - Sa :Entreprise Senegalaise Des Transports Transport D'Hydrocarbures Bellassee)",
+    "location": "Dakar, Senegal",
+    "email": "",
+    "website": "http://cstt-ao.com/en/",
+    "phone1": "221338493949"
+  },
+  "Oui Cary": {
+    "logo": "/assets/img_4.png",
+    "name": "Oui Cary",
+    "location": "Sacré Coeur 3, villa 9157 Rue RC 17, Dakar, SENEGAL",
+    "email": "contact@ouicarry.com",
+    "website": "https://www.ouicarry.com/",
+    "phone1": "221774661616"
+  },
+  "Paps": {
+    "logo": "/assets/img.png",
+    "name": "Paps",
+    "location": "Cité Keur Gorgui Imm Elysée 2",
+    "email": "contact@papslogistics.com",
+    "website": "https://papslogistics.com/",
+    "phone1": "221339232323"
+  },
+  "Shopmeaway": {
+    "logo": "/assets/img_3.png",
+    "name": "Shopmeaway",
+    "location": "MerMoz",
+    "email": "contact@shopmeaway.com",
+    "website": "https://www.shopmeaway.com/",
+    "phone1": ""
+  },
+  "Transglobal": {
+    "logo": "/assets/img_8.png",
+    "name": "Transglobal",
+    "location": "Immeuble P/93 - 3eme étage Hann Mariste, Dakar",
+    "email": "contact@transglobal.sn ",
+    "website": "https://www.transglobal.sn/groupage-degroupage/",
+    "phone1": "221338320309"
+  },
+  "YobanteExpress": {
+    "logo": "/assets/img_5.png",
+    "name": "Yobante Express",
+    "location": "Ouest Foire Sur la VDN, Villa numero 6 (en face impots et domaine), Dakar, Dakar 12500, SN",
+    "email": "info@yobanteexpress.com",
+    "website": " https://www.yobanteexpress.com/#/accueil",
+    "phone1": "221338248142",
+    "phone2": "221785327909"
+  }
+}
