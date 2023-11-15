@@ -1,0 +1,131 @@
+
+{
+  "CinetPay": {
+    "logo":"assets/img_15.png",
+    "name": "CinetPay",
+    "location": "Senegal, Dakar",
+    "email": "hello@cinetpay.com",
+    "website": "https://cinetpay.com/",
+    "phone1": 221338239817,
+    "phone2": 221777396921
+  },
+  "CoinhubAfrica": {
+    "logo":"assets/img_9.png",
+    "name": "CoinhubAfrica",
+    "location": "Senegal, Dakar",
+    "email": "info@saalal.com",
+    "website": "https://saalal.com/",
+    "phone": "-"
+  },
+  "CauryMoney": {
+    "logo":"assets/img_17.png",
+    "name": "Caury Money",
+    "location": "Sénégal, Av. Cheikh Anta Diop, Mermoz, Dakar",
+    "email": "-",
+    "website": "https://cauri.money/",
+    "phone1": 33980800698
+  },
+  "Dexchange": {
+    "logo":"assets/img_19.png",
+    "name": "Dexchange",
+    "location": "Dakar, Sénégal",
+    "email": "contact@dexchange-transfert.com",
+    "website": "https://web.dexchange-transfert.com/",
+    "phone1": 773435776
+  },
+  "Intech": {
+    "logo":"assets/img_8.png",
+    "name": "Intech",
+    "location": "Rte des Almadies, Dakar 12000",
+    "email": "contact@intech.sn",
+    "website": "https://intech.sn/",
+    "phone1": 221338259080
+  },
+  "Intouch": {
+    "logo":"assets/img_1.png",
+    "name": "Intouch",
+    "location": "Sengal, Dakar",
+    "email": "-",
+    "website": "https://en.intouchgroup.net/",
+    "phone1": 221773692823
+  },
+  "Julaya": {
+    "logo":"assets/img_16.png",
+    "name": "Julaya",
+    "location": "Sengal, Dakar",
+    "email": "-",
+    "website": "https://julaya.co/",
+    "phone1": 221778016000
+  },
+  "KoparExpress": {
+    "logo":"assets/img_7.png",
+    "name": "Kopar Express",
+    "location": "Sicap – Foire, lot 186, Dakar-Sénégal",
+    "email": "contact@koparexpress.com",
+    "website": "https://koparexpress.com/",
+    "phone1": "-"
+  },
+  "Kpay": {
+    "logo":"assets/img_16.png",
+    "name": "Kpay",
+    "location": "Sénégal, Dakar",
+    "email": "-",
+    "website": "https://kpay.sn/",
+    "phone1": "-"
+  },
+  "Oryatech": {
+    "logo":"assets/img_12.png",
+    "name": "Oryatech",
+    "location": "Sénégal, Dakar",
+    "email": "-",
+    "website": "https://oryatech.com/",
+    "phone1": "-"
+  },
+  "Paycruiser": {
+    "logo":"assets/img_2.png",
+    "name": "Paycruiser",
+    "location": "Sénégal, Dakar",
+    "email": "-",
+    "website": "https://www.paycruiser.com/",
+    "phone1": "-"
+  },
+  "Paydunya": {
+    "logo":"assets/img_4.png",
+    "name": "Paydunya",
+    "location": "sénégalaise de Football, 10000 Immeuble Forum Center, VDN Batiment Samsung proche Fédération, Dakar",
+    "email": "-",
+    "website": "https://paydunya.com/",
+    "phone1": "-"
+  },
+  "Sesapay": {
+    "logo":"assets/img_4.png",
+    "name": "Sesapay",
+    "location": "Senegal, Dakar",
+    "email": "info@sesapay.sn",
+    "website": "https://www.sesapay.sn/",
+    "phone1": ""
+  },
+  "Sudpay": {
+    "logo":"assets/img_4.png",
+    "name": "Sudpay",
+    "location": "Senegal, Dakar",
+    "email": "contact@sud-pay.com",
+    "website": "https://www.sud-pay.com/",
+    "phone1": 221338359350
+  },
+  "Wave Mobile Money": {
+    "logo":"assets/img_5.png",
+    "name": "Wave Mobile Money",
+    "location": "Senegal, Dakar",
+    "email": "contact@wave.com",
+    "website": "https://www.wave.com/en/",
+    "phone1": ""
+  },
+  "Wizall": {
+    "logo":"assets/img_5.png",
+    "name": "Wizall",
+    "location": "Immeuble Yaye Fatou Dieng, Rue 1 x Rue PE 43, Dakar",
+    "email": "contact@wizall.com",
+    "website": "https://www.wizallmoney.com/accueil",
+    "phone1": "221 33 864 99 00"
+  },
