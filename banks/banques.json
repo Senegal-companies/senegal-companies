@@ -49,5 +49,116 @@
     "email": "ebanking@bimao.sn",
     "website": "https://ebanking.bimao.sn/PortailWeb/#!/",
     "phone1": "221338598218"
+  },
+  "Banque Islamique du Sénégal (BIS)": {
+    "logo": "assets/img_5.png",
+    "name": "Banque Islamique du Sénégal (BIS)",
+    "Location": "Almadies niveau rond-point, face route King FAH, Dakar-Sénégal",
+    "email": "contact@bis-bank.sn",
+    "website": "https://bis-bank.com/",
+    "phone1": "221338496262",
+    "phone2": "221338224948"
+  },
+  "Bank Ouest Africaine de Développement (BOAD)": {
+    "logo": "assets/img_6.png",
+    "name": "Bank Ouest Africaine de Développement (BOAD)",
+    "Location": "BP 1992 Dakar, Sénégal",
+    "email": "",
+    "website": "https://www.boad.org/ ",
+    "phone1": "338496240",
+    "phone2": "338421667"
+  },
+  "Banque Sahelo Saharienne pour l'Investissement et le Commerce (BSIC)": {
+    "logo": "assets/img_7.png",
+    "name": "Banque Sahelo Saharienne pour l'Investissement et le Commerce (BSIC)",
+    "Location": "Dakar, Sénégal",
+    "email": "",
+    "website": "https://bsicbank.com/eng/",
+    "phone1": "338895858",
+    "phone2": "338427105"
+  },
+  "Caisse Nationale de Crédit Agricole du Sénégal (CNCAS)": {
+    "logo": "assets/img_8.png",
+    "name": "Caisse Nationale de Crédit Agricole du Sénégal (CNCAS)",
+    "Location": "Place de l’Indépendance, ancien immeuble d’Air Afrique",
+    "email": "",
+    "website": "https://www.labanqueagricole.sn/",
+    "phone1": "338393636",
+    "phone2": "338212606"
+  },
+  "Citibank Sénégal": {
+    "logo": "assets/img_9.png",
+    "name": "Citibank Sénégal",
+    "Location": "MH99+J2C, Dakar, Senegal",
+    "email": "salimata.boye@citicorp.com",
+    "website": "https://www.citi.com/",
+    "phone1": "338491111",
+    "phone2": "338238817"
+  },
+  "Compagnie Bancaire de l'Afrique Occidentale (CBAO)": {
+    "logo": "assets/img.png",
+    "name": "Compagnie Bancaire de l'Afrique Occidentale (CBAO)",
+    "Location": "place de l'indépendance - Dakar, Sénégal",
+    "email": "",
+    "website": "https://www.cbaobank.com",
+    "phone1": "221338496060"
+  },
+  "Crédit Mutuelle du Sénégal (CMS)": {
+    "logo": "assets/img_17.png",
+    "name": "Crédit Mutuelle du Sénégal (CMS)",
+    "Location": "Point E 17 Rue de Fatick BP: 28052 Dakar Sénégal",
+    "email": "contact@cms.sn",
+    "website": "https://www.cms.sn/",
+    "phone1": "221338694848"
+  },
+  "Ecobank Senegal": {
+    "logo": "assets/img_10.png",
+    "name": "Ecobank Senegal",
+    "Location": "Mermoz, Dakar, Sénégal",
+    "email": "ecobankenquiries@ecobank.com",
+    "website": "https://www.ecobank.com/sn/personal-banking",
+    "phone1": "221338492300"
+  },
+  "FBNBank Senegal": {
+    "logo": "assets/img_13.png",
+    "name": "FBNBank Senegal",
+    "Location": "Dakar, Routes de Almadies Zone 15 Lot D, BP 11045",
+    "email": "serviceclient@fbnbanksenegal.com",
+    "website": "https://www.fbnbanksenegal.com/",
+    "phone1": "221338598010"
+  },
+  "LOCAFRIQUE": {
+    "logo": "assets/img_15.png",
+    "name": "LOCAFRIQUE",
+    "Location": "Route de Ngor X Route des Almadies ",
+    "email": "",
+    "website": "https://www.locafrique-sf.com/",
+    "phone1": "221338592760"
+  },
+  "Orabank Senegal": {
+    "logo": "assets/img_14.png",
+    "name": "Orabank Senegal",
+    "Location": "Dakar, Senegal",
+    "email": "",
+    "website": "https://www.orabank.net/fr/filiale/senegal",
+    "phone1": ""
+  },
+  "Société Général de Banque au Sénégal (SGBS)": {
+    "logo": "assets/img_11.png",
+    "name": "Société Général de Banque au Sénégal (SGBS)",
+    "Location": "Avenue Léopold Sédar Senghor à Dakar",
+    "email": "",
+    "website": "https://societegenerale.sn/fr/ ",
+    "phone1": "221338395500",
+    "phone2": "221338394242"
+  },
+  "United Bank of Africa  (UBA)": {
+    "logo": "assets/img_11.png",
+    "name": "United Bank of Africa  (UBA)",
+    "Location": "Route des Almadies Zone 12 Lot D , Dakar, Sénégal",
+    "email": "cfcsenegal@ubagroup.com",
+    "website": "https://www.ubasenegal.com/",
+    "phone1": "221338595100",
+    "phone2": "221338206010"
   }
 }
